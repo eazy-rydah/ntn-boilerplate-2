@@ -2,7 +2,7 @@
 category: animals
 title: Fill Murrays teeeeeeeeeeeeeeeeeeeeest
 description: Yet another placeholding project, but with Bills
-cover: https://www.fillmurray.com/g/400/200
+cover: /img/product_a.png
 gallery:
   - https://www.fillmurray.com/g/800/400
   - https://www.fillmurray.com/600/600
